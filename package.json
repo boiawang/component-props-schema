@@ -1,0 +1,24 @@
+{
+  "name": "component-props-schema",
+  "version": "0.0.2",
+  "description": "get react component prop schema",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "boiawang",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-generator": "^6.24.1",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-traverse": "^6.24.1",
+    "babylon": "^6.17.0"
+  }
+}

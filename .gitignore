@@ -1,0 +1,8 @@
+.DS_Store
+/node_modules
+*.log
+*.cache
+/.eslintcache
+/coverage
+dist
+lib
